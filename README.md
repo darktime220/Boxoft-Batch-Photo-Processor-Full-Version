@@ -241,4 +241,4 @@ This repository serves as the official landing page for Boxoft Batch Photo Proce
 **Get the most recent version of Boxoft Batch Photo Processor today!**
 
 ---
-**Last updated:** 2026-10-12 18:38:46 UTC
+**Last updated:** 2026-10-13 01:07:32 UTC
